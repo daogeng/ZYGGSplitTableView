@@ -1,0 +1,2 @@
+# ZYGGSplitTableView
+将UITableViewDelegate、UITableViewDataSource从vc中分割出来。一个多个界面可重复使用，方便开发。
